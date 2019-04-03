@@ -131,6 +131,9 @@ MONGO_DATABASE_NAME = config('MONGO_DATABASE_NAME', default='')
 MONGO_COLLECTION_NAME = config('MONGO_COLLECTION_NAME', default='')
 TAGS = ['#MongoDB', '#Mongo']
 
+
+# Twitter
+
 TWITTER_API_KEY = config('TWITTER_API_KEY', default='')
 TWITTER_SECRET_KEY = config('TWITTER_SECRET_KEY', default='')
 TWITTER_ACCESS_TOKEN = config('TWITTER_ACCESS_TOKEN', default='')
