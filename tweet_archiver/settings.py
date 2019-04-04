@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # local apps
     'archiver',
+    'viewer',
 ]
 
 MIDDLEWARE = [
